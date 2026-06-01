@@ -1,9 +1,5 @@
 __pycache__/
 .ipynb_checkpoints/
 
-*.h5
-*.keras
-
-models/
 dataset/
 processed_dataset/
