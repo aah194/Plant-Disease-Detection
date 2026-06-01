@@ -1,0 +1,5 @@
+Model,Test Accuracy (%)
+ResNet50,44.38
+MobileNetV2,94.13
+DenseNet121,95.44
+InceptionV3,89.51

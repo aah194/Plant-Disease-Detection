@@ -1,0 +1,5 @@
+Model,Accuracy (%),Rank
+ResNet50,44.38,4
+MobileNetV2,94.13,2
+DenseNet121,95.44,1
+InceptionV3,89.51,3
