@@ -184,6 +184,11 @@ Confidence: 96.34%
 
 ---
 
+## Live Demo
+
+Deployed Application:
+https://plant-disease-detection-1-k1rl.onrender.com
+
 ## 👨‍💻 Author
 
 **Sumit Bombale**
