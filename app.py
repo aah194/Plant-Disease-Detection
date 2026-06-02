@@ -98,7 +98,7 @@ if uploaded_file is not None:
     st.image(
         img,
         caption="Uploaded Leaf Image",
-        use_container_width=True
+        width=400
     )
 
     img_resized = img.resize((224, 224))
